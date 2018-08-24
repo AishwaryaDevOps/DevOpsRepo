@@ -1,6 +1,6 @@
 mport java.util.Scanner;
  
-class subtractNumbers
+class SubtractNumbers
 {
    public static void main(String args[])
    {
