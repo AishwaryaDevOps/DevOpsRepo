@@ -6,7 +6,7 @@ class SubtractNumbers
    {
       int x, y, z;
  
-      System.out.println("Enter two integers to calculate their subtraction");
+      System.out.println("Enter two integers to calculate their difference");
       Scanner in = new Scanner(System.in);
  
       x = in.nextInt();
